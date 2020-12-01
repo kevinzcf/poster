@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! title: rule
+
 ||youtube.com##div.video-ads
 ||youtube.com##div.ytp-ad-module
 ||6park.com##img
