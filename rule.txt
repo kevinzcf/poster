@@ -1,0 +1,4 @@
+||youtube.com##div.video-ads
+||youtube.com##div.ytp-ad-module
+||youtube.com*
+||6park.com##img
